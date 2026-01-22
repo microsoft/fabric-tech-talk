@@ -20,8 +20,6 @@ This repository contains a series of hands-on workshops that complement the Fabr
 
 <br>
 
----
-
 ## Prerequisites
 
 While each workshop may have its own specific prerequisites, the following are common requirements:
