@@ -4,6 +4,16 @@ Data agent in Microsoft Fabric is a new Microsoft Fabric feature that enables yo
 
 **These resources will help you get started with the data agents and use them successfully in your organization.**
 
+## Prerequisite
+Below are the prerequisites to the workshop. Refer to updated list [here](https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-365-copilot#prerequisites).
+- A paid F2 or higher Fabric capacity, or a Power BI Premium per capacity (P1 or higher) capacity with Microsoft Fabric enabled
+- Fabric data agent tenant settings is enabled.
+- Cross-geo processing for AI is enabled.
+- Cross-geo storing for AI is enabled.
+- At least one of these, with data: A warehouse, a lakehouse, one or more Power BI semantic models, a KQL database, or an ontology.
+- Power BI semantic models via XMLA endpoints tenant switch is enabled for Power BI semantic model data sources.
+- Microsoft 365 Copilot license and a user license for each individual using Fabric data agent in Microsoft 365 Copilot.
+- Both the Fabric data agent and Microsoft 365 Copilot must be on the same tenant and must sign in to both with the same account.
 ## Getting Started
 - [Fabric data agent concepts](https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent)
 - [Guy In A Cube: From Query to Conversation: Microsoft Fabric’s Data Agents Explained](https://www.youtube.com/watch?v=mFoSVcj6tLw)
